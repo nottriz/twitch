@@ -1,1 +1,10 @@
 
+.eslintrc.json
+config.js
+DB/JSON-Storage/*.json
+node_modules/*
+extcmd/hearts.emotes.txt
+grabtoken.js
+package-lock.json
+package.json
+tokens.json
